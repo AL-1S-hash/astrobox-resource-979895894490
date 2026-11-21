@@ -1,0 +1,67 @@
+{
+  "item": {
+    "id": "979895894490",
+    "restype": "watchface",
+    "name": "「惘然」-蔚蓝档案",
+    "description": "表盘特点：缓慢亮屏  文字自动取色  12名精美角色   astrobox下载的是预览版，请购买之后下载azki deck安装",
+    "preview": [
+      "media/Frame 100.jpg",
+      "media/Frame 101.webp",
+      "media/Frame 103.webp",
+      "media/Frame 105.webp"
+    ],
+    "icon": "media/Group 120.png",
+    "cover": "media/Frame 108.png",
+    "author": [
+      {
+        "name": "sees",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "前往爱发电购买",
+      "url": "https://ifdian.net/item/1307168cdac011f1bbde52540025c377",
+      "icon": "shopping-cart-simple"
+    }
+  ],
+  "downloads": {
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/resource.bin",
+      "versionCode": 65536
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/resource.bin",
+      "versionCode": 65536
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/resource-xmb9p.bin",
+      "versionCode": 65536
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/resource-xmb10p.bin",
+      "versionCode": 65536
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/resource-xmrw6.bin",
+      "versionCode": 65536
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/resource-xmb10nfc.bin",
+      "versionCode": 65536
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/resource-xmb10nfc.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {}
+}
